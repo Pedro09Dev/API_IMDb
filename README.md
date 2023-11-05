@@ -20,7 +20,7 @@ API IMDb:  This interface offers methods for performing Create, Read, Update, an
 <br>
 
 <p align="center">
-  <img alt="JAVA Project: IMDb-API" src="[https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/1200px-IMDB_Logo_2016.svg.png)" width="100%">
+  <img alt="JAVA Project: IMDb-API" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/1200px-IMDB_Logo_2016.svg.png" width="100%">
 </p>
 
 ## 🚀 Technologies
@@ -38,7 +38,7 @@ Overall, these codes and packages constitute an application that facilitates the
 
 ## 🔖 Layout
 
-https://imgur.com/a/igxMaiE
+https://imgur.com/a/ObDdpNa
 
 ## :memo: License
 
